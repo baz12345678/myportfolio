@@ -101,22 +101,28 @@ export const workData = [
         bgImage: '/work-3.png',
         link:'/baz-realstore.netlify.app',
     },
+
+    {
+        title: 'Cryptocurrency',
+        description: 'Web Design, React App,API integration',
+        bgImage: '/work-3.png',
+        link:'/baz-cryptocurrency.netlify.app',
+    },
   
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: '' },
-    { icon: assets.mobile_icon, title: 'Javascript', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
-    { icon: assets.mobile_icon, title: 'React', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
-    { icon: assets.mobile_icon, title: 'HTML', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
-    { icon: assets.mobile_icon, title: 'CSS', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
-    { icon: assets.mobile_icon, title: 'Tailwind CSS', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
-    { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience...', link: '' },
-    { icon: assets.graphics_icon, title: 'Landing Page', description: 'Creative design solutions to enhance visual communication...', link: '' },
+    { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming', link: '' },
+    { icon: assets.mobile_icon, title: 'Javascript', description: 'Javascript is the most popular programming language and is use for building logics', link: '' },
+    { icon: assets.mobile_icon, title: 'React', description: 'React is the most and modern Framework of javascript', link: '' },
+    { icon: assets.mobile_icon, title: 'HTML', description: 'Html is a basic language for th beginners to starting the programming', link: '' },
+    { icon: assets.mobile_icon, title: 'CSS', description: 'Mobile app development involves creating software for mobile devices', link: '' },
+    { icon: assets.mobile_icon, title: 'Tailwind CSS', description: 'Useful for UI & UX and responsive design', link: '' },
+    { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience', link: '' },
 ]
 
 export const infoList = [
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript, React Js, Next Js' },
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript, React Js, Next Js, Tailwind Css' },
     { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: '3 years diploma of Software Engineering from Aptech' },
     { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built 3 projects' }
 ];

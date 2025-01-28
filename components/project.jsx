@@ -52,24 +52,24 @@ const Project = ({ isDarkMode }) => {
               
               </div>
 
-              <div  className='border rounded-full border-black w-9 aspect-square flex items-center justify-center shadow-[2px_2px_0_#000] group-hover:bg-lime-300 transition'>
+              {/* <div  className='border rounded-full border-black w-9 aspect-square flex items-center justify-center shadow-[2px_2px_0_#000] group-hover:bg-lime-300 transition'>
 
                 <Image  src={assets.send_icon} alt='send icon' className='w-5' a
                 />
                 
-              </div>
+              </div> */}
 
             </div>
 
           </motion.div>
         ))}
       </motion.div>
-      <motion.a
+      {/* <motion.a
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.5, delay: 1 }}
         className='w-max flex items-center justify-center gap-2 text-gray-700 border-[0.5px] border-gray-700 rounded-full py-1 px-10 mx-auto my-20 hover:bg-lightHover duration-500 dark:text-white dark:border-white dark:hover:bg-darKHover' href="">Show more <Image src={isDarkMode ? assets.right_arrow_bold_dark : assets.right_arrow_bold} alt='right arrow' className='w-4' />
-      </motion.a>
+      </motion.a> */}
     </motion.div>
   )
 }
