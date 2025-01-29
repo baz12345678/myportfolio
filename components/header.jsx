@@ -29,7 +29,7 @@ const Header = () => {
             initial={{y: -30, opacity:0}}
             whileInView={{y: 0, opacity: 1}}
             transition={{duration: 0.8, delay: 0.5}}
-             className='text-3xl sm:text-6xl lg:text-[66px] font-Ovo uppercase'>Frondend Web developer  
+             className='text-3xl sm:text-6xl lg:text-[66px] font-Ovo uppercase'>Frontend Web developer  
              </motion.h1>
 
       <motion.p 
@@ -57,8 +57,8 @@ const Header = () => {
                       transition={{duration: 0.5, delay: 0.8}}
          href="/bazil.cv.pdf" download className='px-8 py-2.5 border rounded-full border-gray-500 flex items-center gap-2 bg-white dark:text-black '>my resume  <Image src={assets.download_icon} alt='' className='w-4'/>
          </motion.a>
-     </div>
 
+     </div>
     </div>
   )
 }
