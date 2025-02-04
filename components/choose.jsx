@@ -19,7 +19,7 @@ const Choose = () => {
       <div className="border px-10 md:px-16  py-8 sm:py-20 flex flex-col gap-5  hover:blue-500 hover:text-black dark:bg-darkTheme  dark:hover:text-white hover:bg-darKHover transition-all duration-500">
         <b>FAST SERVICE :</b>
         <p>
-        I dedicated and passionate about my work and doing work on time or ealier then time
+        I dedicated and passionate about my work and doing work on time or ealier then time.My first priority is to give fast service
         </p>
       </div>
     </div>
