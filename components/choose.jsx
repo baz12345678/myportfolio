@@ -13,13 +13,13 @@ const Choose = () => {
       <div className="border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5  hover:bg-blue-500 hover:text-black dark:hover:text-white dark:bg-darKtheme transition-all duration-500">
         <b>CLEAN CODING</b>
         <p>
-           My aim is to write clean codes because is important to understand the design of website and useful for you to apply the changes 
+        "My aim is to write clean code because it is essential for understanding the design of a website and makes it easier to implement changes."
         </p>
       </div>
       <div className="border px-10 md:px-16  py-8 sm:py-20 flex flex-col gap-5  hover:blue-500 hover:text-black dark:bg-darkTheme  dark:hover:text-white hover:bg-darKHover transition-all duration-500">
         <b>FAST SERVICE :</b>
         <p>
-        I dedicated and passionate about my work and doing work on time or ealier then time.My first priority is to give fast service
+        "I am dedicated and passionate about my work, always completing tasks on time or even earlier. My top priority is to provide fast and efficient service."
         </p>
       </div>
     </div>
