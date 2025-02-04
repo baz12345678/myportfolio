@@ -7,7 +7,7 @@ const Header = () => {
   return (
 
 
-    <div className='w-11/12 max-w-3xl text-center mx-auto flex flex-col items-center justify-center gap-4 pt-[150px] lg:pt-48  mb-36'>
+    <div  className='w-11/12 max-w-3xl text-center mx-auto flex flex-col items-center justify-center gap-4 pt-[150px] lg:pt-36  mb-36'>
 
       <motion.div
       initial={{scale: 0}}
@@ -29,7 +29,7 @@ const Header = () => {
             initial={{y: -30, opacity:0}}
             whileInView={{y: 0, opacity: 1}}
             transition={{duration: 0.8, delay: 0.5}}
-             className='text-3xl sm:text-6xl lg:text-[66px] font-Ovo uppercase'>Frontend Web developer  
+             className='text-3xl w-[60%] sm:text-4xl sm:w-[60%] lg:text-[50px] font-Ovo uppercase'>Frontend Web developer  
              </motion.h1>
 
       <motion.p 

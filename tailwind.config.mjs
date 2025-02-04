@@ -10,9 +10,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        lightHover: '#fcf4ff',
-        darKHover:'#2a004a',
-        darkTheme: '#11001F',
+        light: 'white',
+        darKHover:'#EB5A3C',
+        darkTheme: '#2D9596',
+        
       },
 
       fontFamily: {
@@ -26,7 +27,9 @@ export default {
       },
       gridTemplateColumns: {
         'auto': 'repeat(auto-fit, minmax(200px, 1fr))'
-      }
+      },
+      
+   
     },
   },
 

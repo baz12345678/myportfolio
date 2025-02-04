@@ -130,3 +130,4 @@ export const infoList = [
 export const toolsData = [
     assets.vscode, assets.figma, assets.git
 ];
+
