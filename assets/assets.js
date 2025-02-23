@@ -104,7 +104,7 @@ export const workData = [
 
     {
         title: 'Cryptocurrency',
-        description: 'Web Design, React App,API integration',
+        description: 'Web Design, React App',
         bgImage: '/work-3.png',
         link:'/baz-cryptocurrency.netlify.app',
     },
@@ -118,7 +118,7 @@ export const serviceData = [
     { icon: assets.mobile_icon, title: 'HTML', description: 'Html is a basic language for th beginners to starting the programming', link: '' },
     { icon: assets.mobile_icon, title: 'CSS', description: 'Mobile app development involves creating software for mobile devices', link: '' },
     { icon: assets.mobile_icon, title: 'Tailwind CSS', description: 'Useful for UI & UX and responsive design', link: '' },
-    { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience', link: '' },
+    { icon: assets.ui_icon, title: 'UI design', description: 'Creating modern and visual appealing website designs accordingly to your requirements', link: '' },
 ]
 
 export const infoList = [
