@@ -37,7 +37,7 @@ const Header = () => {
             whileInView={{opacity: 1}}
             transition={{duration: 0.8, delay: 0.7}}
             
-      className='max-w-2xl mx-auto font-Ovo'>"As a Frontend Web Developer Designer, I am responsible for creating and implementing the visual and interactive elements of a website or web application that users directly engage with. Using HTML, CSS, and JavaScript, I structure and style the layout. I also employ modern frameworks such as <span className='text-orange-600 text-xl underline' >React</span> to build dynamic and responsive interfaces, making sure the user experience is seamless across different browsers and devices. Performance optimization is key, and I focus on writing clean.
+      className='max-w-2xl mx-auto font-Ovo'>"As a Frontend Web Designer, I am responsible for creating and implementing the visual and interactive elements of a website or web application that users directly engage with. Using HTML, CSS, and JavaScript, I structure and style the layout. I also employ modern frameworks such as <span className='text-orange-600 text-xl underline' >React</span> to build dynamic and responsive interfaces, making sure the user experience is seamless across different browsers and devices. Performance optimization is key, and I focus on writing clean.
       </motion.p>
 
      <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>  

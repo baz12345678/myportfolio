@@ -49,7 +49,7 @@ const About = ({isDarkMode}) => {
                                       transition={{duration: 0.5, delay: 1}}
                 
                 className='flex-1'>
-                    <p className='mb-10 max-w-2xl font-serif text-base'>   I'm a passionate Frontend Developer Designer with a focus on building clean, responsive, and
+                    <p className='mb-10 max-w-2xl font-serif text-base'>   I'm a passionate Frontend Web Designer with a focus on building clean, responsive, and
                         user-friendly websites. I working in HTML, CSS, JavaScript, and modern frontend framework
                         like React  With a keen eye for detail, I always aim to provide seamless and engaging
                         user experiences.I am always looking or ways to improve my skills and contribute to meaningful projects.</p>
