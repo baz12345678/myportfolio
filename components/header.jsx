@@ -29,7 +29,7 @@ const Header = () => {
             initial={{y: -30, opacity:0}}
             whileInView={{y: 0, opacity: 1}}
             transition={{duration: 0.8, delay: 0.5}}
-             className='text-3xl w-[60%] sm:text-4xl sm:w-[60%] lg:text-[50px] font-Ovo uppercase'>Frontend Web developer Designer  
+             className='text-3xl w-[60%] sm:text-4xl sm:w-[60%] lg:text-[50px] font-Ovo uppercase'>Frontend Web Designer  
              </motion.h1>
 
       <motion.p 
